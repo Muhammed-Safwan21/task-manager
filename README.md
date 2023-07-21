@@ -1,3 +1,8 @@
+# Task Manager
+The Task manager App is a simple application that allows users to manage their tasks and create to-do lists. It provides an intuitive user interface for adding, editing, and deleting tasks. The app is built using React, a popular JavaScript library for building user interfaces.
+
+[Live Demo](http://Muhammed-Safwan21.github.io/task-manager)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
